@@ -1,0 +1,890 @@
+{
+  "kitchen & good company": {
+    "da": "mad & godt selskab",
+    "ru": "еда и хорошая компания"
+  },
+  "Voice & language": {
+    "da": "Stemme og sprog",
+    "ru": "Голос и язык"
+  },
+  "Start screen": {
+    "da": "Startskærm",
+    "ru": "Стартовый экран"
+  },
+  "Table": {
+    "da": "Bord",
+    "ru": "Стол"
+  },
+  "WELCOME TO YOUR TABLE": {
+    "da": "VELKOMMEN TIL BORDET",
+    "ru": "ДОБРО ПОЖАЛОВАТЬ"
+  },
+  "Good company.": {
+    "da": "Godt selskab.",
+    "ru": "Хорошая компания."
+  },
+  "Something delicious.": {
+    "da": "Noget lækkert.",
+    "ru": "Что-нибудь вкусное."
+  },
+  "Tell us what you fancy, or take a look around.": {
+    "da": "Fortæl os, hvad du har lyst til, eller kig på menuen.",
+    "ru": "Расскажи, чего хочется, или полистай меню."
+  },
+  "Language": {
+    "da": "Sprog",
+    "ru": "Язык"
+  },
+  "Let’s find your favourite": {
+    "da": "Lad os finde din favorit",
+    "ru": "Найдём то, что тебе понравится"
+  },
+  "Talk to your menu companion": {
+    "da": "Tal med din menuguide",
+    "ru": "Поговорить с помощником"
+  },
+  "Continue my order": {
+    "da": "Fortsæt min bestilling",
+    "ru": "Продолжить заказ"
+  },
+  "Browse the menu": {
+    "da": "Se menuen",
+    "ru": "Посмотреть меню"
+  },
+  "Start a new order": {
+    "da": "Start en ny bestilling",
+    "ru": "Новый заказ"
+  },
+  "Your table. Your taste.": {
+    "da": "Dit bord. Din smag.",
+    "ru": "Твой стол. Твой вкус."
+  },
+  "Choose, explore, then order with your server.": {
+    "da": "Find dine favoritter, og bestil hos tjeneren.",
+    "ru": "Выбери блюда и закажи у официанта."
+  },
+  "GOOD FOOD. YOUR WAY.": {
+    "da": "GOD MAD. PÅ DIN MÅDE.",
+    "ru": "ВКУСНО. ПО-ТВОЕМУ."
+  },
+  "What are you": {
+    "da": "Hvad har du",
+    "ru": "Чего тебе"
+  },
+  "craving?": {
+    "da": "lyst til?",
+    "ru": "хочется?"
+  },
+  "Need an idea?": {
+    "da": "Brug for en idé?",
+    "ru": "Нужна идея?"
+  },
+  "Categories": {
+    "da": "Kategorier",
+    "ru": "Категории"
+  },
+  "All dishes": {
+    "da": "Hele menuen",
+    "ru": "Всё меню"
+  },
+  "Mains": {
+    "da": "Hovedretter",
+    "ru": "Основные блюда"
+  },
+  "Sides": {
+    "da": "Tilbehør",
+    "ru": "Гарниры"
+  },
+  "Desserts": {
+    "da": "Desserter",
+    "ru": "Десерты"
+  },
+  "Drinks": {
+    "da": "Drikkevarer",
+    "ru": "Напитки"
+  },
+  "Vegetarian": {
+    "da": "Vegetarisk",
+    "ru": "Без мяса"
+  },
+  "from": {
+    "da": "fra",
+    "ru": "от"
+  },
+  "min": {
+    "da": "min",
+    "ru": "мин"
+  },
+  "Choose": {
+    "da": "Vælg",
+    "ru": "Выбрать"
+  },
+  "Good food. Your portion. Your pace.": {
+    "da": "God mad. Din portion. Dit tempo.",
+    "ru": "Хорошая еда. Твоя порция. Твой темп."
+  },
+  "Prices in DKK · Sample menu": {
+    "da": "Priser i DKK · Demomenu",
+    "ru": "Цены в DKK · Демонстрационное меню"
+  },
+  "Help me choose": {
+    "da": "Hjælp mig med at vælge",
+    "ru": "Помоги выбрать"
+  },
+  "My order": {
+    "da": "Min bestilling",
+    "ru": "Мой заказ"
+  },
+  "Added to your order": {
+    "da": "Føjet til din bestilling",
+    "ru": "Добавлено в заказ"
+  },
+  "Order updated": {
+    "da": "Bestilling opdateret",
+    "ru": "Заказ обновлён"
+  },
+  "Drag to take a look around": {
+    "da": "Træk for at se fra alle sider",
+    "ru": "Покрути, чтобы рассмотреть"
+  },
+  "Make it yours": {
+    "da": "Som du kan lide det",
+    "ru": "Как тебе нравится"
+  },
+  "Choose your serving": {
+    "da": "Vælg din servering",
+    "ru": "Выбери вариант"
+  },
+  "Any preferences?": {
+    "da": "Nogle ønsker?",
+    "ru": "Есть пожелания?"
+  },
+  "e.g. no onions, sauce on the side": {
+    "da": "fx uden løg, sauce ved siden af",
+    "ru": "Например: без лука, соус отдельно"
+  },
+  "Allergens": {
+    "da": "Allergener",
+    "ru": "Аллергены"
+  },
+  "None listed": {
+    "da": "Ingen angivet",
+    "ru": "Не указаны"
+  },
+  "Ask your server about allergies and substitutions.": {
+    "da": "Spørg tjeneren om allergier og ændringer.",
+    "ru": "Уточни аллергены и замены у официанта."
+  },
+  "Demo menu · requests are confirmed by your server.": {
+    "da": "Demomenu · ønsker aftales med tjeneren.",
+    "ru": "Демоменю · пожелания подтверждает официант."
+  },
+  "Add to my order": {
+    "da": "Føj til min bestilling",
+    "ru": "Добавить в заказ"
+  },
+  "Your order": {
+    "da": "Din bestilling",
+    "ru": "Твой заказ"
+  },
+  "Your order is ready": {
+    "da": "Din bestilling er klar",
+    "ru": "Твой заказ собран"
+  },
+  "Show this screen to your server to place your order.": {
+    "da": "Vis denne skærm til tjeneren for at bestille.",
+    "ru": "Покажи этот экран официанту, чтобы заказать."
+  },
+  "Everything you picked, just how you like it.": {
+    "da": "Alt det, du har valgt, som du kan lide det.",
+    "ru": "Всё, что ты выбрал, с твоими пожеланиями."
+  },
+  "Preparation note": {
+    "da": "Tilberedningsønske",
+    "ru": "Пожелание к блюду"
+  },
+  "Any requests?": {
+    "da": "Nogle ønsker?",
+    "ru": "Есть пожелания?"
+  },
+  "Remove one": {
+    "da": "Fjern én",
+    "ru": "Убрать одну"
+  },
+  "Add one": {
+    "da": "Tilføj én",
+    "ru": "Добавить одну"
+  },
+  "Total": {
+    "da": "I alt",
+    "ru": "Итого"
+  },
+  "Table 04 · Thank you!": {
+    "da": "Bord 04 · Tak!",
+    "ru": "Стол 04 · Спасибо!"
+  },
+  "You can review everything before ordering.": {
+    "da": "Du kan gennemgå det hele, før du bestiller.",
+    "ru": "Проверь всё перед заказом."
+  },
+  "Demo only — nothing is sent to the kitchen.": {
+    "da": "Kun demo — intet sendes til køkkenet.",
+    "ru": "Это демо — на кухню ничего не отправляется."
+  },
+  "Edit my order": {
+    "da": "Ret min bestilling",
+    "ru": "Изменить заказ"
+  },
+  "Ready to order": {
+    "da": "Klar til at bestille",
+    "ru": "Готов заказать"
+  },
+  "An empty plate, for now": {
+    "da": "En tom tallerken, indtil videre",
+    "ru": "Пока тарелка пуста"
+  },
+  "Find something you love on the menu.": {
+    "da": "Find noget lækkert på menuen.",
+    "ru": "Найди что-нибудь вкусное в меню."
+  },
+  "Explore the menu": {
+    "da": "Gå på opdagelse",
+    "ru": "Посмотри меню"
+  },
+  "A fresh start?": {
+    "da": "En frisk start?",
+    "ru": "Начнём заново?"
+  },
+  "This clears the order and conversations for the next guest.": {
+    "da": "Bestilling og samtaler ryddes til den næste gæst.",
+    "ru": "Заказ и разговоры будут очищены для следующего гостя."
+  },
+  "Keep this order": {
+    "da": "Behold denne bestilling",
+    "ru": "Оставить этот заказ"
+  },
+  "The house burger": {
+    "da": "Husets burger",
+    "ru": "Фирменный бургер"
+  },
+  "Pepperoni pizza": {
+    "da": "Pepperonipizza",
+    "ru": "Пицца пепперони"
+  },
+  "The green break": {
+    "da": "Den grønne pause",
+    "ru": "Зелёный салат"
+  },
+  "Truffle fries": {
+    "da": "Trøffelfritter",
+    "ru": "Картофель с трюфелем"
+  },
+  "A little celebration": {
+    "da": "En lille fejring",
+    "ru": "Клубничный торт"
+  },
+  "Vanilla cloud": {
+    "da": "Vaniljesky",
+    "ru": "Ванильное мороженое"
+  },
+  "House lemonade": {
+    "da": "Husets limonade",
+    "ru": "Домашний лимонад"
+  },
+  "Table water": {
+    "da": "Vand til bordet",
+    "ru": "Вода"
+  },
+  "Espresso": {
+    "da": "Espresso",
+    "ru": "Эспрессо"
+  },
+  "Juicy beef. Melted cheddar. The good stuff.": {
+    "da": "Saftigt oksekød. Smeltet cheddar. Alt det gode.",
+    "ru": "Сочная говядина, расплавленный чеддер — всё как надо."
+  },
+  "Crispy edges. Always room for one more slice.": {
+    "da": "Sprøde kanter. Altid plads til et stykke mere.",
+    "ru": "Хрустящая корочка. Ещё кусочек?"
+  },
+  "Fresh leaves, a little crunch, a lemony finish.": {
+    "da": "Friske blade, lidt knas og et strejf af citron.",
+    "ru": "Свежая зелень, хрустящие овощи и лимонная заправка."
+  },
+  "Golden, crispy, and very hard to share.": {
+    "da": "Gyldne, sprøde og svære at dele.",
+    "ru": "Золотистый, хрустящий — сложно поделиться."
+  },
+  "Strawberry cake. No occasion necessary.": {
+    "da": "Jordbærkage. Ingen anledning nødvendig.",
+    "ru": "Клубничный торт. Повод не нужен."
+  },
+  "Real vanilla meets a crunchy waffle cone.": {
+    "da": "Ægte vanilje i en sprød vaffel.",
+    "ru": "Настоящая ваниль в хрустящем рожке."
+  },
+  "Lemon, mint and a little sparkle.": {
+    "da": "Citron, mynte og lidt bobler.",
+    "ru": "Лимон, мята и немного пузырьков."
+  },
+  "Chilled still or sparkling water.": {
+    "da": "Koldt vand med eller uden brus.",
+    "ru": "Охлаждённая вода с газом или без."
+  },
+  "Freshly pulled, rich and aromatic.": {
+    "da": "Friskbrygget, fyldig og aromatisk.",
+    "ru": "Свежий, насыщенный и ароматный."
+  },
+  "A crowd favourite": {
+    "da": "En gæstefavorit",
+    "ru": "Любимец гостей"
+  },
+  "Made for sharing": {
+    "da": "God at dele",
+    "ru": "Можно поделиться"
+  },
+  "Light & lovely": {
+    "da": "Let og lækker",
+    "ru": "Свежо и легко"
+  },
+  "Your burger’s best friend": {
+    "da": "Burgerens bedste ven",
+    "ru": "Лучшая компания бургеру"
+  },
+  "Save a little room": {
+    "da": "Gem lidt plads",
+    "ru": "Оставь место для десерта"
+  },
+  "One scoop or two?": {
+    "da": "En kugle eller to?",
+    "ru": "Шарик или два?"
+  },
+  "Made here": {
+    "da": "Hjemmelavet",
+    "ru": "Готовим сами"
+  },
+  "For the table": {
+    "da": "Til bordet",
+    "ru": "На весь стол"
+  },
+  "A good finish": {
+    "da": "En god afslutning",
+    "ru": "Приятное завершение"
+  },
+  "Beef patty, cheddar, lettuce, tomato, onion, brioche bun, house sauce.": {
+    "da": "Oksekødsbøf, cheddar, salat, tomat, løg, briochebolle, husets sauce.",
+    "ru": "Говяжья котлета, чеддер, салат, томат, лук, булочка бриошь, фирменный соус."
+  },
+  "Pizza dough, tomato sauce, mozzarella, pepperoni, basil.": {
+    "da": "Pizzadej, tomatsauce, mozzarella, pepperoni, basilikum.",
+    "ru": "Тесто, томатный соус, моцарелла, пепперони, базилик."
+  },
+  "Lettuce, cucumber, tomato, olive oil, lemon.": {
+    "da": "Salat, agurk, tomat, olivenolie, citron.",
+    "ru": "Салат, огурец, томат, оливковое масло, лимон."
+  },
+  "Potato, truffle oil, sea salt.": {
+    "da": "Kartoffel, trøffelolie, havsalt.",
+    "ru": "Картофель, трюфельное масло, морская соль."
+  },
+  "Sponge cake, cream frosting, strawberries.": {
+    "da": "Lagkagebund, flødecreme, jordbær.",
+    "ru": "Бисквит, сливочный крем, клубника."
+  },
+  "Milk, cream, vanilla, sugar, waffle cone.": {
+    "da": "Mælk, fløde, vanilje, sukker, vaffel.",
+    "ru": "Молоко, сливки, ваниль, сахар, вафельный рожок."
+  },
+  "Lemon, mint, sugar, sparkling water.": {
+    "da": "Citron, mynte, sukker, danskvand.",
+    "ru": "Лимон, мята, сахар, газированная вода."
+  },
+  "Water.": {
+    "da": "Vand.",
+    "ru": "Вода."
+  },
+  "Coffee, water.": {
+    "da": "Kaffe, vand.",
+    "ru": "Кофе, вода."
+  },
+  "Single patty": {
+    "da": "Én bøf",
+    "ru": "Одна котлета"
+  },
+  "Double patty": {
+    "da": "To bøffer",
+    "ru": "Две котлеты"
+  },
+  "20 cm pizza": {
+    "da": "Pizza · 20 cm",
+    "ru": "Пицца · 20 см"
+  },
+  "30 cm pizza": {
+    "da": "Pizza · 30 cm",
+    "ru": "Пицца · 30 см"
+  },
+  "Side bowl": {
+    "da": "Tilbehørsskål",
+    "ru": "Салат к блюду"
+  },
+  "Meal bowl": {
+    "da": "Måltidsskål",
+    "ru": "Салат как основное блюдо"
+  },
+  "Side · 100 g": {
+    "da": "Tilbehør · 100 g",
+    "ru": "Гарнир · 100 г"
+  },
+  "Sharing · 200 g": {
+    "da": "Til deling · 200 g",
+    "ru": "На двоих · 200 г"
+  },
+  "Tasting slice · 80 g": {
+    "da": "Smagsstykke · 80 g",
+    "ru": "Дегустационный кусочек · 80 г"
+  },
+  "Slice · 160 g": {
+    "da": "Stykke · 160 g",
+    "ru": "Кусок · 160 г"
+  },
+  "1 scoop": {
+    "da": "1 kugle",
+    "ru": "1 шарик"
+  },
+  "2 scoops": {
+    "da": "2 kugler",
+    "ru": "2 шарика"
+  },
+  "200 ml glass": {
+    "da": "Glas · 200 ml",
+    "ru": "Стакан · 200 мл"
+  },
+  "400 ml glass": {
+    "da": "Glas · 400 ml",
+    "ru": "Стакан · 400 мл"
+  },
+  "330 ml bottle": {
+    "da": "Flaske · 330 ml",
+    "ru": "Бутылка · 330 мл"
+  },
+  "750 ml bottle": {
+    "da": "Flaske · 750 ml",
+    "ru": "Бутылка · 750 мл"
+  },
+  "Single shot": {
+    "da": "Enkelt espresso",
+    "ru": "Один шот"
+  },
+  "Double shot": {
+    "da": "Dobbelt espresso",
+    "ru": "Два шота"
+  },
+  "No onions": {
+    "da": "Uden løg",
+    "ru": "Без лука"
+  },
+  "No cheese": {
+    "da": "Uden ost",
+    "ru": "Без сыра"
+  },
+  "Sauce on the side": {
+    "da": "Sauce ved siden af",
+    "ru": "Соус отдельно"
+  },
+  "No pepperoni": {
+    "da": "Uden pepperoni",
+    "ru": "Без пепперони"
+  },
+  "No basil": {
+    "da": "Uden basilikum",
+    "ru": "Без базилика"
+  },
+  "Cut for sharing": {
+    "da": "Skåret til deling",
+    "ru": "Разрезать для компании"
+  },
+  "Dressing on the side": {
+    "da": "Dressing ved siden af",
+    "ru": "Заправка отдельно"
+  },
+  "No tomatoes": {
+    "da": "Uden tomater",
+    "ru": "Без томатов"
+  },
+  "No cucumber": {
+    "da": "Uden agurk",
+    "ru": "Без огурца"
+  },
+  "No truffle oil": {
+    "da": "Uden trøffelolie",
+    "ru": "Без трюфельного масла"
+  },
+  "No added salt": {
+    "da": "Uden tilsat salt",
+    "ru": "Без добавленной соли"
+  },
+  "In a cup": {
+    "da": "I et bæger",
+    "ru": "В стаканчике"
+  },
+  "No waffle cone": {
+    "da": "Uden vaffel",
+    "ru": "Без рожка"
+  },
+  "No ice": {
+    "da": "Uden isterninger",
+    "ru": "Без льда"
+  },
+  "Less ice": {
+    "da": "Mindre is",
+    "ru": "Поменьше льда"
+  },
+  "No mint": {
+    "da": "Uden mynte",
+    "ru": "Без мяты"
+  },
+  "Sparkling": {
+    "da": "Med brus",
+    "ru": "С газом"
+  },
+  "Still": {
+    "da": "Uden brus",
+    "ru": "Без газа"
+  },
+  "Room temperature": {
+    "da": "Stuetemperatur",
+    "ru": "Комнатной температуры"
+  },
+  "Decaf": {
+    "da": "Koffeinfri",
+    "ru": "Без кофеина"
+  },
+  "gluten": {
+    "da": "gluten",
+    "ru": "глютен"
+  },
+  "milk": {
+    "da": "mælk",
+    "ru": "молоко"
+  },
+  "eggs": {
+    "da": "æg",
+    "ru": "яйца"
+  },
+  "mustard": {
+    "da": "sennep",
+    "ru": "горчица"
+  },
+  "Close": {
+    "da": "Luk",
+    "ru": "Закрыть"
+  },
+  "Voice settings": {
+    "da": "Stemmeindstillinger",
+    "ru": "Настройки голоса"
+  },
+  "Make yourself comfortable.": {
+    "da": "Find din foretrukne stemme.",
+    "ru": "Выбери, как тебе комфортнее."
+  },
+  "Conversation language": {
+    "da": "Samtalesprog",
+    "ru": "Язык"
+  },
+  "Voice model": {
+    "da": "Stemmemodel",
+    "ru": "Голосовая модель"
+  },
+  "Voice": {
+    "da": "Stemme",
+    "ru": "Голос"
+  },
+  "Save settings": {
+    "da": "Gem indstillinger",
+    "ru": "Сохранить настройки"
+  },
+  "voices available. You can change these anytime.": {
+    "da": "stemmer. Du kan ændre det når som helst.",
+    "ru": "голосов. Выбор можно поменять в любой момент."
+  },
+  "Your menu companion": {
+    "da": "Din menuguide",
+    "ru": "Твой помощник по меню"
+  },
+  "Mute assistant": {
+    "da": "Slå lyd fra",
+    "ru": "Выключить звук"
+  },
+  "Unmute assistant": {
+    "da": "Slå lyd til",
+    "ru": "Включить звук"
+  },
+  "Finding something good…": {
+    "da": "Finder noget lækkert…",
+    "ru": "Ищу что-нибудь вкусное…"
+  },
+  "＋ New chat": {
+    "da": "＋ Ny samtale",
+    "ru": "＋ Новый чат"
+  },
+  "Previous chats": {
+    "da": "Tidligere samtaler",
+    "ru": "Прошлые чаты"
+  },
+  "Auto captions · may mishear · saved in this tab": {
+    "da": "Automatiske undertekster · kan høre forkert · gemt i denne fane",
+    "ru": "Автотранскрипт · возможны ошибки · сохранён в этой вкладке"
+  },
+  "Save transcript": {
+    "da": "Gem samtale",
+    "ru": "Сохранить разговор"
+  },
+  "View your basket": {
+    "da": "Se din bestilling",
+    "ru": "Посмотреть заказ"
+  },
+  "items": {
+    "da": "stk.",
+    "ru": "поз."
+  },
+  "Make me a filling basket": {
+    "da": "Sammensæt et mættende måltid",
+    "ru": "Собери мне сытный заказ"
+  },
+  "Something light": {
+    "da": "Noget let",
+    "ru": "Что-нибудь лёгкое"
+  },
+  "Surprise me": {
+    "da": "Overrask mig",
+    "ru": "Удиви меня"
+  },
+  "No meat, please": {
+    "da": "Uden kød, tak",
+    "ru": "Без мяса, пожалуйста"
+  },
+  "Stop microphone": {
+    "da": "Stop mikrofon",
+    "ru": "Остановить микрофон"
+  },
+  "Start voice conversation": {
+    "da": "Start stemmesamtale",
+    "ru": "Начать голосовой разговор"
+  },
+  "Message the assistant": {
+    "da": "Skriv til menuguiden",
+    "ru": "Сообщение помощнику"
+  },
+  "Listening — you can interrupt me": {
+    "da": "Jeg lytter — du kan afbryde mig",
+    "ru": "Слушаю — можешь меня перебить"
+  },
+  "Type or tap the microphone…": {
+    "da": "Skriv eller tryk på mikrofonen…",
+    "ru": "Напиши или нажми на микрофон…"
+  },
+  "Send message": {
+    "da": "Send besked",
+    "ru": "Отправить"
+  },
+  "AI voice companion": {
+    "da": "AI-menuguide",
+    "ru": "Голосовой ИИ-помощник"
+  },
+  "Microphone on": {
+    "da": "Mikrofon tændt",
+    "ru": "Микрофон включён"
+  },
+  "Microphone off": {
+    "da": "Mikrofon slukket",
+    "ru": "Микрофон выключен"
+  },
+  "· Draft basket only": {
+    "da": "· Kun bestillingskladde",
+    "ru": "· Черновик заказа"
+  },
+  "Ready when you are": {
+    "da": "Klar, når du er",
+    "ru": "Готов, когда ты готов"
+  },
+  "Connecting…": {
+    "da": "Forbinder…",
+    "ru": "Подключаюсь…"
+  },
+  "Ready": {
+    "da": "Klar",
+    "ru": "Готов"
+  },
+  "Listening": {
+    "da": "Lytter",
+    "ru": "Слушаю"
+  },
+  "Allow microphone access": {
+    "da": "Tillad adgang til mikrofonen",
+    "ru": "Разреши доступ к микрофону"
+  },
+  "Disconnected": {
+    "da": "Afbrudt",
+    "ru": "Отключено"
+  },
+  "3D unavailable · details below": {
+    "da": "3D er utilgængelig · detaljer nedenfor",
+    "ru": "3D недоступно · описание ниже"
+  },
+  "Plating up…": {
+    "da": "Anretter…",
+    "ru": "Сервируем…"
+  },
+  "Could not connect.": {
+    "da": "Kunne ikke forbinde.",
+    "ru": "Не удалось подключиться."
+  },
+  "Please allow microphone access, or type a message.": {
+    "da": "Tillad mikrofonen, eller skriv en besked.",
+    "ru": "Разреши доступ к микрофону или напиши сообщение."
+  },
+  "The response took too long. Please reconnect and try again. Your basket is saved.": {
+    "da": "Svaret tog for lang tid. Forbind igen. Din bestilling er gemt.",
+    "ru": "Ответ занял слишком много времени. Подключись заново. Заказ сохранён."
+  },
+  "AI voice companion ·": {
+    "da": "AI-menuguide ·",
+    "ru": "Голосовой ИИ-помощник ·"
+  },
+  "Here’s what I’d pick.": {
+    "da": "Her er mit forslag.",
+    "ru": "Вот что я бы предложил."
+  },
+  "Voice connection failed. Please try again.": {
+    "da": "Stemmeforbindelsen mislykkedes. Prøv igen.",
+    "ru": "Не удалось подключить голос. Попробуй ещё раз."
+  },
+  "Tap the sound button to enable audio.": {
+    "da": "Tryk på lydknappen for at høre stemmen.",
+    "ru": "Нажми кнопку звука, чтобы услышать голос."
+  },
+  "OpenAI quota or rate limit reached.": {
+    "da": "OpenAI-grænsen er nået. Prøv senere.",
+    "ru": "Достигнут лимит OpenAI. Попробуй позже."
+  },
+  "A few too many connections. Please try again in a minute.": {
+    "da": "For mange forbindelser. Prøv igen om et minut.",
+    "ru": "Слишком много подключений. Попробуй через минуту."
+  },
+  "The AI quota is used up. Please try later — your basket is saved.": {
+    "da": "AI-kvoten er brugt. Prøv senere — din bestilling er gemt.",
+    "ru": "Лимит ИИ исчерпан. Попробуй позже — заказ сохранён."
+  },
+  "Session ended. Start again to continue.": {
+    "da": "Samtalen er slut. Start igen for at fortsætte.",
+    "ru": "Сессия закончилась. Подключись заново."
+  },
+  "Connection interrupted. Your basket is saved.": {
+    "da": "Forbindelsen blev afbrudt. Din bestilling er gemt.",
+    "ru": "Связь прервалась. Заказ сохранён."
+  },
+  "The conversation ended. Your basket is saved. Start again to continue.": {
+    "da": "Samtalen er slut. Din bestilling er gemt. Start igen.",
+    "ru": "Разговор завершён. Заказ сохранён. Подключись заново."
+  },
+  "Speaking": {
+    "da": "Taler",
+    "ru": "Говорю"
+  },
+  "I’m listening": {
+    "da": "Jeg lytter",
+    "ru": "Слушаю тебя"
+  },
+  "Let’s talk": {
+    "da": "Lad os tale",
+    "ru": "Поговорим"
+  },
+  "Just speak naturally. You can interrupt me.": {
+    "da": "Tal bare naturligt. Du kan afbryde mig.",
+    "ru": "Говори как обычно. Меня можно перебить."
+  },
+  "Tap the microphone to talk.": {
+    "da": "Tryk på mikrofonen for at tale.",
+    "ru": "Нажми на микрофон, чтобы поговорить."
+  },
+  "Transcript": {
+    "da": "Samtaletekst",
+    "ru": "Транскрипт"
+  },
+  "Hide transcript": {
+    "da": "Skjul samtaletekst",
+    "ru": "Скрыть транскрипт"
+  },
+  "Type instead": {
+    "da": "Skriv i stedet",
+    "ru": "Написать текстом"
+  },
+  "Hide keyboard": {
+    "da": "Skjul tastatur",
+    "ru": "Скрыть ввод"
+  },
+  "Hold to talk": {
+    "da": "Hold inde for at tale",
+    "ru": "Удерживайте, чтобы говорить"
+  },
+  "Release to send": {
+    "da": "Slip for at sende",
+    "ru": "Отпустите, чтобы отправить"
+  },
+  "The microphone only sends audio while you hold the button.": {
+    "da": "Mikrofonen sender kun lyd, mens du holder knappen inde.",
+    "ru": "Микрофон передаёт звук только пока вы держите кнопку."
+  },
+  "Speak after the assistant finishes.": {
+    "da": "Tal, når assistenten er færdig.",
+    "ru": "Говорите после завершения ответа."
+  },
+  "Switch to hands-free": {
+    "da": "Skift til håndfri",
+    "ru": "Включить разговор без кнопки"
+  },
+  "Noisy place? Hold to talk": {
+    "da": "Støj? Hold inde for at tale",
+    "ru": "Шумно? Говорить по кнопке"
+  },
+  "Please wait until the assistant finishes.": {
+    "da": "Vent, til assistenten er færdig.",
+    "ru": "Дождитесь завершения ответа ассистента."
+  },
+  "YOUR MENU COMPANION": {
+    "da": "DIN MENUGUIDE",
+    "ru": "ТВОЙ ПОМОЩНИК"
+  },
+  "Picked for you": {
+    "da": "Udvalgt til dig",
+    "ru": "Подобрано для тебя"
+  },
+  "Show all dishes": {
+    "da": "Vis alle retter",
+    "ru": "Все блюда"
+  },
+  "Show suggestions": {
+    "da": "Vis forslag",
+    "ru": "Предложения"
+  },
+  "The reply stopped early. Ask me to continue.": {
+    "da": "Svaret blev afbrudt. Bed mig fortsætte.",
+    "ru": "Ответ оборвался. Попроси меня продолжить."
+  },
+  "Make yourself at home": {
+    "da": "Føl dig hjemme",
+    "ru": "Устраивайся поудобнее"
+  },
+  "Tell me what sounds good.": {
+    "da": "Fortæl mig, hvad du har lyst til.",
+    "ru": "Расскажи, чего тебе хочется."
+  },
+  "Tap to talk": {
+    "da": "Tryk for at tale",
+    "ru": "Нажми, чтобы поговорить"
+  },
+  "Menu": {
+    "da": "Menu",
+    "ru": "Меню"
+  }
+}
